@@ -1029,6 +1029,7 @@ st.markdown(
     <div style="text-align: center; color: #6B7280; font-size: 0.9rem;">
         <p>Powered by Open-Meteo, NASA POWER, and OpenStreetMap • Built with Streamlit</p>
         <p>Data sources provide free weather and climate information for research and personal use</p>
+        <p>Please send ideas and bugs to: gelossaway@gmail.com</p>
     </div>
     """, 
     unsafe_allow_html=True
