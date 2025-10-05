@@ -1,1 +1,8 @@
-streamlit streamlit pandas numpy requests plotly folium streamlit-folium
+streamlit 
+streamlit 
+pandas 
+numpy 
+requests 
+plotly 
+folium 
+streamlit-folium
